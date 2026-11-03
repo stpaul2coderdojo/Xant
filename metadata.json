@@ -1,0 +1,6 @@
+{
+  "name": "Hive Xant: Emergent Diffusion Pathways & Holy Mother Ant",
+  "description": "Interactive bio-computational simulation of emergent stigmergic chemical diffusion pathways, asexual parthenogenesis by the Holy Mother Ant, caste differentiation, and fungal pathogenesis contagion dynamics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
